@@ -1,0 +1,6 @@
+data/
+saved_models/
+.history/
+__pycache__/
+*.txt
+*.pt
